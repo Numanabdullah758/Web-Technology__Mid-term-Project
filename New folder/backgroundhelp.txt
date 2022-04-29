@@ -1,0 +1,11 @@
+
+<div class="container mt-5">
+  <div class="card img-fluid" style="width:100%">
+    <img src="../bootstrap4/img_avatar1.png" alt="Card imge" style="width:100%">
+    <div class="card-img-overlay">
+      <h4 class="card-title">John Doe</h4>
+      <p class="card-text">Some example text some example text. Some example text some example text. Some example text some example text. Some example text some example text.</p>
+      <a href="#" class="btn btn-primary">See Profile</a>
+    </div>
+  </div>
+</div>

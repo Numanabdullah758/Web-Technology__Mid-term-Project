@@ -1,0 +1,44 @@
+
+
+
+
+
+
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <div class="d-flex text-white">
+            <div class="pt-1 ps-5 pe-2">
+                <a class="navbar-brand" href="#">
+                    <img src="logo.jpg" alt="Logo" style="width:60px;" class="rounded-pill">
+                </a>
+                <a class="text-decoration-none h1 text-white" href="#">Portfo<span class="text-danger">lio.</span></a>
+            </div>
+        </div>
+    </nav>
+
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <div class="container-fluid">
+          <ul class="navbar-nav">
+            <div class="">
+                <a class="navbar-brand" href="#">
+                    <img src="logo.jpg" alt="Logo" style="width:60px;" class="rounded-pill">
+                </a>
+                <a class="text-decoration-none h1 text-white" href="#">Portfo<span class="text-danger">lio.</span></a>
+            </div>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#">Disabled</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+
+<form class="d-flex">
+                    <input class="form-control me-2" type="text" placeholder="Search">
+                    <button class="btn btn-primary" type="button">Search</button>
+                </form>

@@ -1,0 +1,31 @@
+*
+{
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body
+{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+h1, h2, h3, h4, h5, h6 
+{ 
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.navbar-nav li:hover
+{
+    background-color: #aa9144;
+}
+.home-potlink:hover
+{
+    font-size: larger;
+}
+.profilePicNuman
+{
+    background-position: center;
+    width: 60%;
+}
